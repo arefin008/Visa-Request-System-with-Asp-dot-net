@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|C:\\Users\\User\\Desktop\\VisaRequestSystem\\visarequestsystem\\views\\token\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|solutionrelative:visarequestsystem\\views\\token\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|C:\\Users\\User\\Desktop\\VisaRequestSystem\\visarequestsystem\\views\\token\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|solutionrelative:visarequestsystem\\views\\token\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|c:\\users\\user\\desktop\\visarequestsystem\\visarequestsystem\\models\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|solutionrelative:visarequestsystem\\models\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|C:\\Users\\User\\Desktop\\VisaRequestSystem\\visarequestsystem\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E33B91-9D39-4749-AA9E-416D9ACD205A}|VisaRequestSystem\\VisaRequestSystem.csproj|solutionrelative:visarequestsystem\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Views\\Token\\Report.cshtml",
+              "RelativeDocumentMoniker": "VisaRequestSystem\\Views\\Token\\Report.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Views\\Token\\Report.cshtml",
+              "RelativeToolTip": "VisaRequestSystem\\Views\\Token\\Report.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T07:33:55.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Views\\Token\\Index.cshtml",
+              "RelativeDocumentMoniker": "VisaRequestSystem\\Views\\Token\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Views\\Token\\Index.cshtml",
+              "RelativeToolTip": "VisaRequestSystem\\Views\\Token\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:41:16.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Models\\TokenManager.cs",
+              "RelativeDocumentMoniker": "VisaRequestSystem\\Models\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Models\\TokenManager.cs",
+              "RelativeToolTip": "VisaRequestSystem\\Models\\TokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:40:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "VisaRequestSystem\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\VisaRequestSystem\\VisaRequestSystem\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "VisaRequestSystem\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:39:02.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

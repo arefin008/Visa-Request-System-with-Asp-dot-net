@@ -1,0 +1,35 @@
+﻿@model List<string>
+
+@{
+    ViewBag.Title = "Execution Report";
+}
+
+<h1>Execution Report</h1>
+
+@if (Model.Count == 0)
+{
+    <p>No tokens have been generated yet.</p>
+}
+else
+{
+    <table border="1" cellpadding="5" cellspacing="0">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@Model[i]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<p>
+    <a href="/Token/Index" class="btn btn-success">Back to Token Generation</a>
+</p>

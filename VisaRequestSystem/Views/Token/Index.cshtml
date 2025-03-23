@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Visa Token System";
+}
+
+<h1>Visa Token System</h1>
+
+<form method="post" action="/Token/GenerateToken">
+    <label for="visaType">Select Visa Type:</label>
+    <select id="visaType" name="visaType" required>
+        <option value="Medical">Medical</option>
+        <option value="Tourist">Tourist</option>
+        <option value="Business">Business</option>
+        <option value="Govt">Government Officials</option>
+    </select>
+    <br /><br />
+    <button type="submit" class="btn btn-success">Get Token</button>
+</form>
+
+@if (ViewBag.Token != null)
+{
+    <div>
+        <h2>Generated Token</h2>
+        <p>Token: @ViewBag.Token</p>
+        <p>Time: @ViewBag.Timestamp</p>
+    </div>
+}
+<br />
+<p>
+    <a href="/Token/Report" class="btn btn-secondary">View Execution Report</a>
+</p>
